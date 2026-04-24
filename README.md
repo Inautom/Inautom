@@ -2,6 +2,8 @@
 
 # INAUTOM Robótica
 
+<img src="Images/logo2.png" alt="Logótipo INAUTOM Robótica" width="220" />
+
 **Automação industrial · Robótica · Indústria 4.0**
 
 [Website](https://inautom.pt/) · [Robótica](https://robotica.inautom.pt/) · [LinkedIn](https://pt.linkedin.com/company/inautom)
